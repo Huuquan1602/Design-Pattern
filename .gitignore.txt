@@ -1,0 +1,15 @@
+# Bỏ qua thư mục cấu hình của Visual Studio
+.vs/
+
+# Bỏ qua thư mục biên dịch (bin và obj)
+bin/
+obj/
+
+# Bỏ qua các tệp cấu hình cá nhân của Visual Studio
+*.user
+*.suo
+
+# Bỏ qua các tệp tạm thời khác
+*~
+*.bak
+*.swp

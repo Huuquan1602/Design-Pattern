@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\bin\Debug\net8.0\ExampleAdapterPattern.exe
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\bin\Debug\net8.0\ExampleAdapterPattern.deps.json
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\bin\Debug\net8.0\ExampleAdapterPattern.runtimeconfig.json
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\bin\Debug\net8.0\ExampleAdapterPattern.dll
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\bin\Debug\net8.0\ExampleAdapterPattern.pdb
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.sourcelink.json
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.dll
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\refint\ExampleAdapterPattern.dll
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.pdb
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ExampleAdapterPattern.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Git_All\Design-Pattern\AdapterPattern\ExampleAdapterPattern\ExampleAdapterPattern\obj\Debug\net8.0\ref\ExampleAdapterPattern.dll
